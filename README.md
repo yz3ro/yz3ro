@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yusuf and I'm a Android Developer, from Turkey. You can review my codes and provide recommendations.</h2>
+<h2 align="left">Hi 👋! My name is Yusuf and I'm an Android Developer, from Turkey. You can review my codes and provide recommendations.</h2>
 
 ###
 

@@ -1,68 +1,67 @@
+<h2 align="left">Hi 👋! My name is Yusuf and I'm an Android Developer, from Turkey. You can review my codes and provide recommendations.</h2>
+
+
+
+###
+
+
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Merhaba,+ben+Yusuf!+👋;Android+Geliştiricisi;Bağımsız+Oyun+Geliştiricisi;Profilime+Hoş+Geldiniz!&v=1" alt="Typing SVG" />
+
+  
+
+ <img src="https://github-readme-stats.vercel.app/api?username=yz3ro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yz3ro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <img src="https://streak-stats.demolab.com?user=yz3ro&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+  <img src="https://github-profile-trophy.vercel.app?username=yz3ro&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
 </div>
 
-<br/>
 
-### 👨‍💻 Hakkımda
+
+###
+
+
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZmY2h0dTB2bXFjbTJqMXEwdGtjZmJyYzhpMmMxbms5cTU4Yng4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+
+
+
+###
+
+
+
 <div align="left">
-  <p>Türkiye'de yaşayan tutkulu bir <b>Android Geliştiricisi</b> ve <b>Bağımsız Oyun Geliştiricisiyim</b>. Mobil dünyada yaratıcı çözümler üretmeyi ve 3D dünyalar inşa etmeyi seviyorum.</p>
-  <ul>
-    <li>🔭 Şu sıralar <b>Kotlin</b> ile gelişmiş Android uygulamaları ve kendi oyunum olan <b>Linkies</b> üzerine çalışıyorum.</li>
-    <li>🌱 <b>Unity</b>, <b>Blender</b> ile 3D modelleme ve oyun mekanikleri üzerine kendimi sürekli geliştiriyorum.</li>
-    <li>🎨 Adobe araçlarıyla (Photoshop, Premiere Pro) tasarımlarımı ve videolarımı canlandırıyorum.</li>
-    <li>📫 Bana ulaşmak için: <a href="mailto:yusufolgn03@gmail.com"><b>yusufolgn03@gmail.com</b></a></li>
-  </ul>
-</div>
 
-<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
 
-### 🚀 Yeteneklerim & Araçlarım
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,android,firebase,sqlite,mysql,php,python&perline=8&v=1" alt="android skills" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,blender,cs,figma,ps,pr,ai,html,css&perline=9&v=1" alt="game dev skills" />
-  </a>
-</div>
+  <img width="12" />
 
-<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 
-### 📊 GitHub İstatistiklerim
-<div align="left">
-  <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZmY2h0dTB2bXFjbTJqMXEwdGtjZmJyYzhpMmMxbms5cTU4Yng4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="kedi gifi" />
-</div>
+  <img width="12" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yz3ro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&v=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yz3ro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&v=1" height="150" alt="languages graph" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yz3ro&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&v=1" height="150" alt="streak graph" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 
-<br/>
+  <img width="12" />
 
-### 🏆 Başarılarım
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=yz3ro&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&v=1" height="150" alt="trophy graph" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 
-<br/>
+  <img width="12" />
 
-### 🔗 Bağlantılarım
-<div align="center">
-  <a href="mailto:yusufolgn03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/yz3ro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://medium.com/@yz3ro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
-  </a>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 
-<br clear="both">
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=sqlite"
